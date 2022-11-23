@@ -1,0 +1,29 @@
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+header , footer{
+    background-color: black;
+    color: white;
+    height: 60px;
+    padding: 10px;
+}
+section {
+    background-color: grey;
+    margin: 5px;
+    padding: 10px;
+}
+
+article {
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+}
+body {
+    font-size: 0.9em;
+}
